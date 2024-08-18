@@ -1,10 +1,10 @@
-<h1 style="text-align: center;" >
+<h1>
   <img alt="Icon logo" src="./github/logo.svg" width="230px"/>
 </h1>
 
 ## 💻 Projeto
 
-IgniteGYM trata-se de uma aplicação mobile disponível nas plataformas Android e IOS, onde é possível cadastrar-se com um email e uma senha e acessar uma lista de exercícios separadas por categorias de grupos musculares com exemplos visuais contendo a quantidade de séries e repetições de cada execução junto de uma opção de marcar como concluído, promovendo um histórico completo dos exercícios realizados, sendo possível também, editar informações do perfil como foto, nome e senha.
+<h3>IgniteGYM trata-se de uma aplicação mobile disponível nas plataformas Android e IOS, com tutoriais de exercícios classificados por grupos musculares, sendo possível acompanhar o histórico completo dos treinos realizados, além de editar informações de perfil como foto, nome e senha.</h3>
 
 ## :camera: Demonstração
 
