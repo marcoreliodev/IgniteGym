@@ -4,7 +4,7 @@
 
 ## 💻 Projeto
 
-<h3 text-align="center">IgniteGYM trata-se de uma aplicação mobile disponível nas plataformas Android e IOS, com tutoriais de exercícios classificados por grupos musculares, sendo possível acompanhar o histórico completo dos treinos realizados, além de editar informações de perfil como foto, nome e senha.</h3>
+<h3 align="center">IgniteGYM trata-se de uma aplicação mobile disponível nas plataformas Android e IOS, com tutoriais de exercícios classificados por grupos musculares, sendo possível acompanhar o histórico completo dos treinos realizados, além de editar informações de perfil como foto, nome e senha.</h3>
 
 ## :camera: Demonstração
 
